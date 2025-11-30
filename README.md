@@ -34,7 +34,7 @@
   - Game data management, pin button  
   - Games Collection: 1,600+ games from GN-Math, StrongdogXP  
   - “Others” section: Eaglercraft, original Grand Theft Auto (JS-DOS/fanmade), Doom, SimCity 1 & 2000  
-  - Developed rapidly after Version 4 was blocked, completed in one month  
+  - Developed rapidly after Version 4 was blocked, completed in 2 months compared to Version 4, which took the entire summer break.
 
 ## Links
 - [Facebook](https://facebook.com/foursimpleproblems)  
