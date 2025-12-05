@@ -26,7 +26,7 @@
   - Removed experimental pages including proxies  
   - Less customization website-wide, but more structured user experience  
 
-- **Version 5 (Beta, end of Thanksgiving Break, 2025)**  
+- **Version 5 (December 2, 2025)**  
   - Complete rebuild: professional and student-friendly  
   - Reduced page clutter with customizable navigation bar  
   - Sign-in via Google, Microsoft, GitHub, X (Twitter)  
